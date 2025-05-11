@@ -2,6 +2,7 @@
 
 - 🎓 Computer Science Engineering student passionate about technology and coding  
 - 💡 Proficient in **Java**, **Python**, **C**, **HTML**, **CSS**, and **JavaScript**  
+- 📊 Strong understanding of **Data Structures and Algorithms**  
 - ⚛️ Currently learning **React.js** and exploring **backend development** & modern frameworks  
 - 🤝 Open to collaborate on **front-end projects** and tech-focused initiatives  
 - 📚 Avid reader and lifelong learner, always curious about how things work  
